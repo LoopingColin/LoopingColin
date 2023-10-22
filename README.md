@@ -9,11 +9,6 @@
 <!-- Subtitle -->
 <h3 align="center">Aspiring Software Developer</h3>
 
-<!-- Introduction -->
-<p align="center">
-  Welcome to my GitHub playground! I'm a passionate software alchemist crafting code into extraordinary experiences.
-</p>
-
 <!-- Skills Section -->
 <h2 align="center">💼 Skills</h2>
 

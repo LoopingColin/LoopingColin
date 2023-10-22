@@ -9,6 +9,11 @@
 <!-- Subtitle -->
 <h3 align="center">Aspiring Software Developer</h3>
 
+<!-- Introduction -->
+<p align="center">
+  Welcome to my GitHub playground! I'm a passionate software alchemist crafting code into extraordinary experiences.
+</p>
+
 <!-- Skills Section -->
 <h2 align="center">💼 Skills</h2>
 
@@ -51,16 +56,10 @@
 
 <!-- Social Media and Email Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedinprofile">
+  <a href="https://www.linkedin.com/in/colin-g-5aa750228?lipi=urn%3Ali%3Apage%3Aprofile_edit_contact_info%3Be0fe7cbc-4d91-4242-b558-6a96c68384bb">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn">
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:colingreen116@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email">
   </a>
 </p>
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedinprofile">LinkedIn</a> | <a href="mailto:youremail@example.com">Email</a>
-</p>
-

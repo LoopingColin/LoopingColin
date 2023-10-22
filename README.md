@@ -1,19 +1,23 @@
 <!-- Header Section -->
-<h1 align="center">Colin Green</h1>
+<h1 align="center">
+  <span style="color: cyan;">Colin Green</span>
+</h1>
 
 <p align="center">
   <img src="profile_picture.jpg" width="200" height="200" alt="Profile Picture">
 </p>
 
-<p align="center">Aspiring Software Developer</p>
+<p align="center">
+  <span style="color: cyan;">Aspiring Software Developer</span>
+</p>
 
 <!-- Contact Section -->
 <div align="center">
   <a href="mailto:cgreen@example.com">
-    <img src="https://img.shields.io/badge/Email-cgreen@example.com-<COLOR>" alt="Email">
+    <img src="https://img.shields.io/badge/Email-cgreen@example.com-cyan" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/colingreen">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-cyan" alt="LinkedIn">
   </a>
 </div>
 
@@ -77,4 +81,5 @@ I have several projects and code samples here on my GitHub. Feel free to explore
 If you'd like to collaborate or discuss potential projects, please don't hesitate to reach out. I'm always eager to learn, share ideas, and contribute to exciting software development projects.
 
 Thank you for visiting my GitHub profile!
+
 

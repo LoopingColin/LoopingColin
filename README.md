@@ -10,16 +10,16 @@
   <span style="color: cyan;">I am an aspiring software developer.</span>
 </p>
 
-<!-- Section with Icons and Language/Framework-specific Images -->
+<!-- Programming Languages Section with Icon and Language Images -->
 <div style="display: flex; flex-direction: row; align-items: center;">
-  <img src="https://example.com/programming_languages_icon.png" width="30" height="30" alt="Programming Languages Icon" style="margin-right: 10px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="30" height="30" alt="Programming Languages Icon" style="margin-right: 10px;">
   <div style="border-left: 2px solid cyan; padding-left: 10px; margin-left: 10px;">
     <p>Programming Languages</p>
   </div>
 </div>
 
-<!-- Programming Languages Section -->
-- ![Python](https://example.com/python_icon.png) Python
+<!-- Programming Languages Icons and Names -->
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/701px-Python-logo-notext.svg.png" width="20" height="20" alt="Python" /> Python
 - ![JavaScript](https://example.com/javascript_icon.png) JavaScript
 - ![Java](https://example.com/java_icon.png) Java
 - ![C++](https://example.com/cpp_icon.png) C++
@@ -27,11 +27,11 @@
 - ![HTML/CSS](https://example.com/html_css_icon.png) HTML/CSS
 - [Add More]
 
-<!-- Repeat the same pattern for other sections -->
+<!-- Continue with other sections, providing the icon links and specific images as needed -->
 
 <!-- Vertical Lines Section -->
 <div style="display: flex; flex-direction: row; align-items: center;">
-  <img src="https://example.com/frameworks_icon.png" width="30" height="30" alt="Frameworks Icon" style="margin-right: 10px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="30" height="30" alt="Frameworks Icon" style="margin-right: 10px;">
   <div style="border-left: 2px solid cyan; padding-left: 10px; margin-left: 10px;">
     <p>Frameworks</p>
   </div>
@@ -49,13 +49,6 @@
 
 <!-- Projects Section -->
 ## Projects
-
-I have several projects and code samples here on my GitHub. Feel free to explore them to get a better understanding of my work.
-
-If you'd like to collaborate or discuss potential projects, please don't hesitate to reach out. I'm always eager to learn, share ideas, and contribute to exciting software development projects.
-
-Thank you for visiting my GitHub profile!
-
 
 I have several projects and code samples here on my GitHub. Feel free to explore them to get a better understanding of my work.
 

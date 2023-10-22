@@ -1,3 +1,8 @@
+<!-- Hello GIF -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/b7/43/52/b743527a755c9e382579da4eb63c03d1.gif" width="200" height="200" alt="Hello GIF">
+</p>
+
 <!-- Header Section -->
 <h1 align="center">
   <span style="color: cyan;">Colin Green</span>

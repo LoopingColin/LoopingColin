@@ -21,15 +21,12 @@
 <!-- Programming Languages Icons and Names -->
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/701px-Python-logo-notext.svg.png" width="20" height="20" alt="Python" /> Python
 - ![JavaScript](https://example.com/javascript_icon.png) JavaScript
-- ![Java](https://example.com/java_icon.png) Java
 - ![C++](https://example.com/cpp_icon.png) C++
-- ![Ruby](https://example.com/ruby_icon.png) Ruby
-- ![HTML/CSS](https://example.com/html_css_icon.png) HTML/CSS
-- [Add More]
+- ![Visual Basic](https://example.com/vb_icon.png) Visual Basic
+- ![HTML](https://example.com/html_icon.png) HTML
+- ![CSS](https://example.com/css_icon.png) CSS
 
-<!-- Continue with other sections, providing the icon links and specific images as needed -->
-
-<!-- Vertical Lines Section -->
+<!-- Frameworks Section -->
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="30" height="30" alt="Frameworks Icon" style="margin-right: 10px;">
   <div style="border-left: 2px solid cyan; padding-left: 10px; margin-left: 10px;">
@@ -37,22 +34,45 @@
   </div>
 </div>
 
-<!-- Frameworks Section -->
+- ![Bootstrap](https://example.com/bootstrap_icon.png) Bootstrap
+- ![jQuery](https://example.com/jquery_icon.png) jQuery
+- ![Node.js](https://example.com/nodejs_icon.png) Node.js
+- ![Express](https://example.com/express_icon.png) Express
 - ![React](https://example.com/react_icon.png) React
-- ![Angular](https://example.com/angular_icon.png) Angular
-- ![Django](https://example.com/django_icon.png) Django
-- ![Ruby on Rails](https://example.com/rails_icon.png) Ruby on Rails
-- ![Spring](https://example.com/spring_icon.png) Spring
-- [Add More]
 
-<!-- Repeat the same pattern for Databases, Version Control, Hosting & SaaS, and IDEs/Editors -->
+<!-- Databases Section -->
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="30" height="30" alt="Databases Icon" style="margin-right: 10px;">
+  <div style="border-left: 2px solid cyan; padding-left: 10px; margin-left: 10px;">
+    <p>Databases</p>
+  </div>
+</div>
 
-<!-- Projects Section -->
-## Projects
+- ![Microsoft SQL Server](https://example.com/mssql_icon.png) Microsoft SQL Server
+- ![MySQL](https://example.com/mysql_icon.png) MySQL
 
-I have several projects and code samples here on my GitHub. Feel free to explore them to get a better understanding of my work.
+<!-- Version Control Section -->
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="30" height="30" alt="Version Control Icon" style="margin-right: 10px;">
+  <div style="border-left: 2px solid cyan; padding-left: 10px; margin-left: 10px;">
+    <p>Version Control</p>
+  </div>
+</div>
 
-If you'd like to collaborate or discuss potential projects, please don't hesitate to reach out. I'm always eager to learn, share ideas, and contribute to exciting software development projects.
+- ![GitHub](https://example.com/github_icon.png) GitHub
+- ![Git](https://example.com/git_icon.png) Git
 
-Thank you for visiting my GitHub profile!
+<!-- IDEs/Editors Section -->
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="30" height="30" alt="IDEs/Editors Icon" style="margin-right: 10px;">
+  <div style="border-left: 2px solid cyan; padding-left: 10px; margin-left: 10px;">
+    <p>IDEs/Editors</p>
+  </div>
+</div>
+
+- ![Visual Studio](https://example.com/vs_icon.png) Visual Studio
+- ![Visual Studio Code](https://example.com/vscode_icon.png) Visual Studio Code
+- ![PyCharm](https://example.com/pycharm_icon.png) PyCharm
+
+<!--
 

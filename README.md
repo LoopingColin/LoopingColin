@@ -4,14 +4,14 @@
 </p>
 
 <!-- Title -->
-<h1 align="center">👋 Hi there, I'm Colin Green</h1>
+<h1 align="center">👋 Hi, I'm Colin Green</h1>
 
 <!-- Subtitle -->
-<h3 align="center">Aspiring Software Developer | Passionate Coder</h3>
+<h3 align="center">Aspiring Software Developer</h3>
 
 <!-- Introduction -->
 <p align="center">
-  Welcome to my GitHub profile! I'm a dedicated software developer with a passion for creating amazing software.
+  Welcome to my GitHub profile! I'm a passionate software developer on a journey to create remarkable applications and projects.
 </p>
 
 <!-- Skills Section -->
@@ -47,16 +47,11 @@
   <p>Visual Studio, Visual Studio Code, PyCharm</p>
 </div>
 
-<!-- GitHub Stats and Activity -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
 <!-- Contact Section -->
 <h2 align="center">📫 Get in Touch</h2>
 
 <p align="center">
-  Feel free to connect with me on LinkedIn or drop me an email!
+  Let's connect on LinkedIn or reach out via email!
 </p>
 
 <p align="center">

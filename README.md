@@ -1,20 +1,29 @@
-# Colin Green - Aspiring Software Developer
+<!-- Header Section -->
+<h1 align="center">Colin Green</h1>
 
-![Profile Picture](profile_picture.jpg)
+<p align="center">
+  <img src="profile_picture.jpg" width="200" height="200" alt="Profile Picture">
+</p>
 
-Welcome to my GitHub profile! I'm Colin Green, an aspiring software developer with a passion for coding and creating innovative solutions. Below, you'll find information about my skills, contact details, and some of the technologies I work with.
+<p align="center">Aspiring Software Developer</p>
 
-## Contact
+<!-- Contact Section -->
+<div align="center">
+  <a href="mailto:cgreen@example.com">
+    <img src="https://img.shields.io/badge/Email-cgreen@example.com-<COLOR>" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/colingreen">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
+  </a>
+</div>
 
-You can reach out to me via email or connect with me on LinkedIn:
+<!-- Introduction Section -->
+<p align="center">Welcome to my GitHub profile! I'm Colin Green, an aspiring software developer with a passion for coding and creating innovative solutions. Below, you'll find information about my skills, contact details, and some of the technologies I work with.</p>
 
-- ![Email](https://img.shields.io/badge/Email-cgreen@example.com-<COLOR>)
-  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/colingreen)
+<!-- Skills Section -->
+## Skills
 
-## Programming Languages
-
-Here are some of the programming languages I am familiar with:
-
+### Programming Languages
 - Python
 - JavaScript
 - Java
@@ -23,10 +32,7 @@ Here are some of the programming languages I am familiar with:
 - HTML/CSS
 - [Add More]
 
-## Frameworks
-
-I have experience with various frameworks, including:
-
+### Frameworks
 - React
 - Angular
 - Django
@@ -34,10 +40,7 @@ I have experience with various frameworks, including:
 - Spring
 - [Add More]
 
-## Databases
-
-I've worked with a range of databases:
-
+### Databases
 - MySQL
 - PostgreSQL
 - MongoDB
@@ -45,19 +48,13 @@ I've worked with a range of databases:
 - Oracle
 - [Add More]
 
-## Version Control
-
-I am proficient in version control systems like:
-
+### Version Control
 - Git
 - SVN
 - Mercurial
 - [Add More]
 
-## Hosting & SaaS
-
-I have experience with hosting and SaaS platforms:
-
+### Hosting & SaaS
 - AWS
 - Heroku
 - DigitalOcean
@@ -65,16 +62,14 @@ I have experience with hosting and SaaS platforms:
 - Vercel
 - [Add More]
 
-## IDEs/Editors
-
-My preferred Integrated Development Environments (IDEs) and text editors include:
-
+### IDEs/Editors
 - Visual Studio Code
 - PyCharm
 - Sublime Text
 - IntelliJ IDEA
 - [Add More]
 
+<!-- Projects Section -->
 ## Projects
 
 I have several projects and code samples here on my GitHub. Feel free to explore them to get a better understanding of my work.
@@ -82,3 +77,4 @@ I have several projects and code samples here on my GitHub. Feel free to explore
 If you'd like to collaborate or discuss potential projects, please don't hesitate to reach out. I'm always eager to learn, share ideas, and contribute to exciting software development projects.
 
 Thank you for visiting my GitHub profile!
+

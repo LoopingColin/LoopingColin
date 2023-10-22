@@ -3,36 +3,21 @@
   <img src="https://i.pinimg.com/originals/b7/43/52/b743527a755c9e382579da4eb63c03d1.gif" width="200" height="200" alt="Hello GIF">
 </p>
 
-<!-- Header Section -->
-<h1 align="center">
-  <span style="color: cyan;">Colin Green</span>
-</h1>
+<!-- Introduction Section -->
+<h2 align="center">My Name is Colin Green</h2>
 
 <p align="center">
-  <img src="profile_picture.jpg" width="200" height="200" alt="Profile Picture">
+  <span style="color: cyan;">I am an aspiring software developer.</span>
 </p>
 
-<p align="center">
-  <span style="color: cyan;">Aspiring Software Developer</span>
-</p>
-
-<!-- Contact Section -->
-<div align="center">
-  <a href="mailto:cgreen@example.com">
-    <img src="https://img.shields.io/badge/Email-cgreen@example.com-cyan" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/colingreen">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-cyan" alt="LinkedIn">
-  </a>
+<!-- Vertical Lines Section -->
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <div style="border-left: 2px solid cyan; padding-left: 10px; margin-left: 10px;">
+    <p>Programming Languages</p>
+  </div>
 </div>
 
-<!-- Introduction Section -->
-<p align="center">Welcome to my GitHub profile! I'm Colin Green, an aspiring software developer with a passion for coding and creating innovative solutions. Below, you'll find information about my skills, contact details, and some of the technologies I work with.</p>
-
-<!-- Skills Section -->
-## Skills
-
-### Programming Languages
+<!-- Programming Languages Section -->
 - Python
 - JavaScript
 - Java
@@ -41,7 +26,14 @@
 - HTML/CSS
 - [Add More]
 
-### Frameworks
+<!-- Vertical Lines Section -->
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <div style="border-left: 2px solid cyan; padding-left: 10px; margin-left: 10px;">
+    <p>Frameworks</p>
+  </div>
+</div>
+
+<!-- Frameworks Section -->
 - React
 - Angular
 - Django
@@ -49,7 +41,14 @@
 - Spring
 - [Add More]
 
-### Databases
+<!-- Vertical Lines Section -->
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <div style="border-left: 2px solid cyan; padding-left: 10px; margin-left: 10px;">
+    <p>Databases</p>
+  </div>
+</div>
+
+<!-- Databases Section -->
 - MySQL
 - PostgreSQL
 - MongoDB
@@ -57,13 +56,27 @@
 - Oracle
 - [Add More]
 
-### Version Control
+<!-- Vertical Lines Section -->
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <div style="border-left: 2px solid cyan; padding-left: 10px; margin-left: 10px;">
+    <p>Version Control</p>
+  </div>
+</div>
+
+<!-- Version Control Section -->
 - Git
 - SVN
 - Mercurial
 - [Add More]
 
-### Hosting & SaaS
+<!-- Vertical Lines Section -->
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <div style="border-left: 2px solid cyan; padding-left: 10px; margin-left: 10px;">
+    <p>Hosting & SaaS</p>
+  </div>
+</div>
+
+<!-- Hosting & SaaS Section -->
 - AWS
 - Heroku
 - DigitalOcean
@@ -71,7 +84,14 @@
 - Vercel
 - [Add More]
 
-### IDEs/Editors
+<!-- Vertical Lines Section -->
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <div style="border-left: 2px solid cyan; padding-left: 10px; margin-left: 10px;">
+    <p>IDEs/Editors</p>
+  </div>
+</div>
+
+<!-- IDEs/Editors Section -->
 - Visual Studio Code
 - PyCharm
 - Sublime Text
@@ -86,5 +106,4 @@ I have several projects and code samples here on my GitHub. Feel free to explore
 If you'd like to collaborate or discuss potential projects, please don't hesitate to reach out. I'm always eager to learn, share ideas, and contribute to exciting software development projects.
 
 Thank you for visiting my GitHub profile!
-
 
